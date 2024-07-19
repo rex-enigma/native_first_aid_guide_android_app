@@ -1,0 +1,55 @@
+{
+    "id": 9,
+    "image": "treating_choking_step_1",
+    "condition": "Choking",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Assess the situation",
+            "stepImage": "treating_choking_step_1",
+            "description": "• someone experiencing a total obstruction of the airway will not be able to speak, cry, cough or breathe.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Give back blows.",
+            "stepImage": "treating_choking_step_2",
+            "description": "• Stand behind the person and slightly off to one side. If you’re  right-handed, stand to the left and if you’re left-handed, stand to the  right.\n\n• Support the person's chest with one hand and lean the person forward so  that the object blocking his airway will exit his mouth (as opposed to  going further down the throat).\n\n• Administer up to 5 forceful blows between the person’s shoulder blades  with the heel of your hand (between your palm and wrist). Pause after  each blow to see if the blockage has cleared. If not, give up to five  abdominal thrusts.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Administer abdominal thrusts (Heimlich maneuver).",
+            "stepImage": "treating_choking_step_3",
+            "description": "• Stand behind the choking victim.\n\n• Make a fist with your hand and place it directly above the person's navel (belly button) but below the breastbone.\n\n• Put your other hand on top of your first, then thrust both hands backwards into their stomach with a hard, upward movement.\n\n• Do this thrusting action up to five times. Check after each thrust to  see if the blockage is gone. Stop if the victim loses consciousness.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Modify the Heimlich maneuver for pregnant women and people who are obese.",
+            "stepImage": "treating_choking_step_4",
+            "description": "• Place your hands higher than described above in the regular Heimlich maneuver technique.\n\n• Your hands should be at the base of the breast bone, just above where the lowest ribs join.\n\n• Press hard into the chest with quick thrusts as described above.\n\n• Repeat until the person stops choking and the blockage is dislodged or he falls unconscious.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Make sure the object is completely gone.",
+            "stepImage": "treating_choking_step_5",
+            "description": "• Look to see if there is something blocking the airway. If there is, you  can also do a sweep through the person's mouth with your finger. Only  sweep if you see an object, otherwise you could push it further back.\n"
+        },
+        {
+            "stepNumber": 6,
+            "title": "Check to see if normal breathing has returned.",
+            "stepImage": "treating_choking_step_6",
+            "description": "• Once the object is gone, most people will return to breathing normally. If normal breathing has not returned or if the person loses consciousness, move to the next step.\n"
+        },
+        {
+            "stepNumber": 7,
+            "title": "Administer help if the person falls unconscious.",
+            "stepImage": "treating_choking_step_7",
+            "description": "• If the object remains lodged and the person does not regain  consciousness or respond, check whether the victim is breathing. Place  your cheek close to the person's mouth. For 10 seconds: Look to see if  the chest is rising and falling, listen for breathing, and feel for the  person's breath against your cheek.\n\n• If the person is not breathing, start cardiopulmonary resuscitation (CPR). The chest compressions used in CPR may also dislodge the object.\n\n• Send someone to dial emergency services or, if you are alone, call  emergency services yourself and then return to help the person.  Alternate between chest compressions, checking the airway, and  performing rescue breathing while you wait for help to arrive. Give 2 breaths after every 30 chest compressions.\n\n• Remember to recheck the mouth repeatedly while administering CPR.\n\n• There may be some resistance to chest inflation until the object is dislodged.\n"
+        },
+        {
+            "stepNumber": 8,
+            "title": "Consult a physician.",
+            "stepImage": "treating_choking_step_8",
+            "description": "• If after choking, the person experiences a persistent cough, any  difficulty breathing or a feeling that something is still stuck in his  throat, he should see a medical professional immediately.\n"
+        }
+    ]
+}

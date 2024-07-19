@@ -1,0 +1,37 @@
+{
+    "id": 2,
+    "image": "treating_nosebleed_step_2",
+    "condition": "Nosebleed",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Position your body.",
+            "stepImage": "treating_nosebleed_step_1",
+            "description": "• A towel can be held under your nose to collect the blood.\n\n• Do not lie down as this can cause blood to pass down the throat.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Compress the nose.",
+            "stepImage": "treating_nosebleed_step_2",
+            "description": "• If bleeding continues, reapply pressure for another 10 minutes.\n\n• While you do this, breathe through the mouth.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Cool yourself down.",
+            "stepImage": "treating_nosebleed_step_3",
+            "description": "• This is more effective than placing a cold compress over the nose. Cold  compresses placed over the nose are not very effective according to a  recent clinical study.\n\n• You can also suck on a popsicle to achieve the same result.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Use oxymetazoline nasal sprays.",
+            "stepImage": "treating_nosebleed_step_4",
+            "description": "• If bleeding has stopped, do not remove the cotton or gauze for about an hour, because bleeding can reoccur.\n\n• Frequent use of this drug, which is more than 3-4 days at a time, can cause addiction and nasal congestion.\n\n• These sprays are used only if bleeding does not stop on pinching the nose after the first 10 minutes.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": " Wash your nose and rest.",
+            "stepImage": "treating_nosebleed_step_5",
+            "description": "• You can lie down while resting.\n "
+        }
+    ]
+}

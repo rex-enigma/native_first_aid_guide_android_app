@@ -1,0 +1,43 @@
+{
+    "id": 7,
+    "image": "treating_major_burn_step_1",
+    "condition": "Major Burn",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Call emergency services immediately.",
+            "stepImage": "treating_major_burn_step_1",
+            "description": "• Never try to treat a serious burn yourself. The following measures are simply proactive steps to take until medical help arrives.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Safely remove the victim from the heat source.",
+            "stepImage": "treating_major_burn_step_2",
+            "description": "• Never pull on or move someone using the burned area for leverage. If you  do, you could further damage the skin and possibly open up a wound even  more. This can cause great pain to a suffering victim and lead to  shock.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Cover the burn.",
+            "stepImage": "treating_major_burn_step_3",
+            "description": "• Apply a cool, moist towel over the burned area to protect it until help arrives.\n\n• Do not use ice or immerse the affected area in cold water. This can cause hypothermia or further damage to the sensitive area.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Remove any chemical irritants.",
+            "stepImage": "treating_major_burn_step_4",
+            "description": "• If your burn was caused by chemicals, clean the area of any remaining chemicals.\n\n• Run the area under cool water or add a cool compress as you wait for emergency help.\n\n• Do not attempt any home remedies on a chemical burn.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Elevate the burn above the victim's heart.",
+            "stepImage": "treating_major_burn_step_5",
+            "description": "• Only do this if you can elevate the wound without causing further damage.\n"
+        },
+        {
+            "stepNumber": 6,
+            "title": "Seek immediate help for shock.",
+            "stepImage": "treating_major_burn_step_6",
+            "description": "• Look for shock symptoms: weak or rapid pulse, low blood pressure, clammy skin, disorientation or unconsciousness, nausea, or combativeness.\n\n• If you notice symptoms of shock from third degree burns, get medical attention immediately.\n\n• Call an ambulance to get the victim to the hospital quickly.\n"
+        }
+    ]
+}

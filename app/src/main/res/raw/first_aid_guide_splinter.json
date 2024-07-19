@@ -1,0 +1,37 @@
+{
+    "id": 3,
+    "image": "treating_splinter_step_1",
+    "condition": "Splinter",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Try using tweezers.",
+            "stepImage": "treating_splinter_step_1",
+            "description": "• Sterilize the tweezers before using them. Wipe them with rubbing alcohol  or vinegar, boil them in water for several minutes, or hold them over a  flame for about a minute.\n\n• Wash your hands before you try to remove your splinter.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Use nail clippers for thick splinters.",
+            "stepImage": "treating_splinter_step_2",
+            "description": "• Cut your skin in a parallel direction to that of the splinter.\n\n• Don't clip deeply enough to cause bleeding. A deeper wound will increase the risk of infection.\n\n• When using nail clippers or tweezers, use your dominant hand if you can  (this won't work if the splinter is in your dominant hand), so you have  better dexterity and control.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Use a needle to pry the splinter loose.",
+            "stepImage": "treating_splinter_step_3",
+            "description": "• Don't try to completely dig the deep splinter out with the needle – you'll cause more damage and risk breaking the splinter.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Bathe yourself in lukewarm water.",
+            "stepImage": "treating_splinter_step_4",
+            "description": "• One of the more common brands is Ichthammol (black drawing salve), which is found over-the-counter at most pharmacies.\n\n• Drawing salves are greasy and may smell unpleasant.\n\n• In most cases, the salve will only bring the splinter to the skin's surface – you'll still need to pluck it out with tweezers.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Try adding some baking soda to the wound.",
+            "stepImage": "treating_splinter_step_5",
+            "description": "• You will need to use tweezers or nail clippers to remove the splinter from your skin’s surface.\n"
+        }
+    ]
+}

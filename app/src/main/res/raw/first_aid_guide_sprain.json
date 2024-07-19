@@ -1,0 +1,37 @@
+{
+    "id": 10,
+    "image": "treating_sprain_step_1",
+    "condition": "Sprain",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Contact your doctor if your symptoms are severe.",
+            "stepImage": "treating_sprain_step_1",
+            "description": "• Severe swelling, such a when your joint appears twice its size or feels  hot to the touch, or pain in the area can also mean you have a serious  sprain that should be treated by a doctor. Compare your injured joint to  your non-injured joint to determine how badly it's swollen.\n\n• If you have a fever or any open cuts around the injury, see a doctor  immediately to rule out a broken bone and prevent infection. The doctor  can do an X-ray or MRI to determine the extent of your injury.\n\n• If you notice redness and heat around the injury, it may be a sign of infection. Contact your doctor immediately.\n\n• If the same joint has been sprained or injured before, it’s best to see a  doctor even if it seems like you have a minor sprain. Your doctor can  help you avoid any complications with your current injury and prevent it from happening again in the future.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Rest the sprained joint to prevent further injury and let it heal.",
+            "stepImage": "treating_sprain_step_2",
+            "description": "• If you have a sprained ankle or knee, you may want to use crutches for  the first couple of days. Talk to your doctor to find the best solution.\n\n• Rest a sprained wrist by putting your arm in a sling.\n\n• Tape a sprained finger or toe to the adjacent one to keep it immobile,  or splint it with at homemade or commercial splint. You can also wrap a  sprained thumb with a bandage to let it rest.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Ice the joint for 15-20 minutes 4-8 times per day to reduce the swelling.",
+            "stepImage": "treating_sprain_step_3",
+            "description": "• Be extra gentle with your sprain after you’ve iced it. You won’t feel as much pain or discomfort but you should still rest.\n\n• Avoid icing your sprain if you have an open or infected wound,  hypersensitivity to cold, acute dermatitis or eczema on the injured  joint, impaired circulation, Raynaud’s disease, or lack of skin  sensitivity.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Wrap the joint to stabilize it and further reduce swelling.",
+            "stepImage": "treating_sprain_step_4",
+            "description": "• It's best to have someone wrap the joint for you, as it's very difficult to do it correctly on your own.\n\n• Find elastic bandage and special compressive sleeves for your ankle or wrist in your local pharmacy.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Elevate the joint to let gravity help the healing process.",
+            "stepImage": "treating_sprain_step_5",
+            "description": "• If possible, keep the joint raised above heart level as often as you can over the first few days.\n\n• You can elevate the area while you ice and compress the injury. This  way, gravity will help to bring fluid away from the injury to reduce  swelling and speed healing.\n"
+        }
+    ]
+}

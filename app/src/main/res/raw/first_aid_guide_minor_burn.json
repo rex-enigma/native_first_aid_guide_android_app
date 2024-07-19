@@ -1,0 +1,61 @@
+{
+    "id": 6,
+    "image": "treating_minor_burn_step_1",
+    "condition": "Minor Burn",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Run cool water over the burn.",
+            "stepImage": "treating_dog_bite_step_1",
+            "description": "• As soon as you can, run cool water over the burn.\n\n• Stick the burned area under cool running water for 10-15 minutes or until the pain subsides.\n\n• Avoid using cold water, since this can damage the skin around the burn.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Remove tight clothing or jewelry quickly.",
+            "stepImage": "treating_minor_burn_step_2",
+            "description": "• As soon as you can, or while rinsing the burn, remove anything that might constrict your skin as the wound swells.\n\n• When in doubt, take it off.This lets blood to flow to the wound and starts healing it. Removing tight clothing or jewelry can also prevent further damage.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Apply a cold compress.",
+            "stepImage": "treating_minor_burn_step_3",
+            "description": "• If cold water isn’t an option, use a cold compress or ice pack wrapped in a towel.\n\n• Place it over your burn. Apply the compress for 10-15 minutes, wait for 30 minutes, and then reapply for 10-15 minutes.\n\n• Never apply ice or your compress directly to the burn, since this will  damage the skin. Keep the towel between you and the ice instead.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Take an over the counter pain reliever.",
+            "stepImage": "treating_minor_burn_step_4",
+            "description": "• Follow the specific package instructions. They'll be different depending on what medication you choose.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Clean the burn.",
+            "stepImage": "treating_minor_burn_step_5",
+            "description": "• Do not pop blisters while you clean since they actually protect your skin from infection. Take care not to pop the blister or drain the contents, since the body  is able to take care of minor blisters on its own. Antibiotic ointment  isn't needed if your blisters haven't popped. But, if they have or if  your wound is exposed, use an antibiotic to prevent infection.\n"
+        },
+        {
+            "stepNumber": 6,
+            "title": "Lightly cover the burn with ointment and then gauze.",
+            "stepImage": "treating_minor_burn_step_6",
+            "description": "• Do not apply gauze directly to any wound. A wound must always be covered  with a cream or ointment before applying gauze. Otherwise, when the  gauze is removed, all the newly formed skin will be torn off with it.\n\n• Remove gauze in the direction of surrounding hair growth. If the gauze  is sticking to the wound, use lukewarm water or a saline solution  applied to the stuck gauze for easier removal. Make a saline solution by  adding 1 teaspoon of salt to a gallon of water\n"
+        },
+        {
+            "stepNumber": 7,
+            "title": " Avoid using home remedies like egg whites, butter, and tea.",
+            "stepImage": "treating_minor_burn_step_7",
+            "description": "• Natural moisturizers such as aloe vera or soy may be helpful in cases of sunburn and tanning bed burns.\n"
+        },
+        {
+            "stepNumber": 8,
+            "title": "Watch the burn for infection.",
+            "stepImage": "treating_minor_burn_step_8",
+            "description": "• Signs of an infection include: warmth, tenderness, hardening of the  wound area and fever greater than 39°C/102.2 F or less than 36.5°C/97.7  F. Seek immediate medical attention if your temperature falls within these ranges\n"
+        },
+        {
+            "stepNumber": 9,
+            "title": "Alleviate itching with topicals",
+            "stepImage": "treating_minor_burn_step_9",
+            "description": "• Topicals such as aloe vera or petroleum based jelly can soothe the discomfort caused by itching.\n"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app theme colors -->
+    <color name="colorPrimary">#058050</color>
+    <color name="colorPrimaryVariant">#006030</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#42A5F5</color>
+    <color name="colorSecondaryVariant">#2196F3</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorBackground">#F0F0F0</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+</resources>

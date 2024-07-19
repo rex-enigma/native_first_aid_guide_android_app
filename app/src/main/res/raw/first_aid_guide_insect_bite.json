@@ -1,0 +1,43 @@
+{
+    "id": 4,
+    "image": "treating_insect_bite_step_1",
+    "condition": "Insect Bite",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Move away from the area of the attack.",
+            "stepImage": "treating_insect_bite_step_1",
+            "description": "• Leave the area quickly and calmly.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Remove the stinger.",
+            "stepImage": "treating_insect_bite_step_2",
+            "description": "• Stingers are usually barbed which is why they stick in the skin.\n\n• Wasps will not leave any stingers in your skin.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Wash the wound.",
+            "stepImage": "treating_insect_bite_step_3",
+            "description": "• Wash the area gently to avoid further agitation of the sting.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Treat the wound.",
+            "stepImage": "treating_insect_bite_step_4",
+            "description": "• Avoid scratching the area, even if it itches. Scratching will only further irritate the sting.\n\n• Put an over-the-counter hydrocortisone cream or ointment on the site  twice a day for a few days. If the area is very itchy or swollen, take  an oral antihistamine such as Benadryl or Zyrtec. Don't use both oral  and topical antihistamines together.\n\n• For any pain, try using painkillers such as ibuprofen, aspirin, or acetaminophen.\n\n• Soak in cool water.  Add a tablespoon of baking soda for every quart of water.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Know what the symptoms of a sting are.",
+            "stepImage": "treating_insect_bite_step_5",
+            "description": "• A normal reaction will be annoying but not life threatening.\n\n• A severe reaction will require emergency services.\n"
+        },
+        {
+            "stepNumber": 6,
+            "title": "Watch the sting closely.",
+            "stepImage": "treating_insect_bite_step_5",
+            "description": "• Signs of infection include: increased redness, swelling or pain,  blisters or drainage from the site, or redness spreading or streaking  from the sting site.\n\n• Pay special attention for stings on the neck or mouth.  Swelling here  may cause suffocation. Seek immediate medical attention if this happens.\n"
+        }
+    ]
+}

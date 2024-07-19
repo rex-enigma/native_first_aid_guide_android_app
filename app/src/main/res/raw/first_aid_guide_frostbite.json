@@ -1,0 +1,43 @@
+{
+    "id": 11,
+    "image": "treating_frostbite_step_1",
+    "condition": "Frostbite",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Begin warming up the affected area.",
+            "stepImage": "treating_frostbite_step_1",
+            "description": "• Tuck fingers/hands into your armpits, and hold dry gloved hands over  your face, toes, or other areas of the body to add heat. If you have any  on, remove your wet clothes as these will prevent your temperature from  rising.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Take pain medication if necessary.",
+            "stepImage": "treating_frostbite_step_2",
+            "description": "• If you’re suffering superficial to severe frostbite, the rewarming  process may be painful. To prevent further suffering on your part, take  an NSAID (nonsteroidal anti-inflammatory drug) pain reliever such as  ibuprofen.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": " Rewarm the frostbitten area by submerging it in warm water.",
+            "stepImage": "treating_frostbite_step_3",
+            "description": "• If you do not have a thermometer handy, test the water by placing an  uninjured area such as a hand or elbow in the water. It should feel very  warm, but still tolerable.[17] If the water is painfully hot, cool the water a little bit.\n\n• If possible, use circulating water rather than still. A whirlpool bath is ideal, but even using running water would work.\n\n• Do not allow the frozen area to touch the sides of the bowl or vessel. This could cause damage to the skin.\n\n• Do not rewarm the area for less than 15-30 minutes. As the area thaws,  you may experience severe pain. However, it is important to continue  rewarming the area until it is fully thawed. If you stop the rewarming  process too early you could cause further damage.\n\n• For severe frostbite, you may need to rewarm the area for up to an hour."
+        },
+        {
+            "stepNumber": 4,
+            "title": "Do not use dry heat such as heaters, fireplaces or heating pads.",
+            "stepImage": "treating_frostbite_step_4",
+            "description": "• Remember that the frostbitten area will be numb, and you will be unable  to gauge the temperature. Dry heat sources cannot be accurately  monitored.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": "Pay attention to the frostbitten areas.",
+            "stepImage": "treating_frostbite_step_5",
+            "description": "• Take photos of the affected area if possible. This will help your doctor  track the progress of the frostbite and determine whether it is  improving with treatment.\n"
+        },
+        {
+            "stepNumber": 6,
+            "title": "Prevent further damage.",
+            "stepImage": "treating_frostbite_step_6",
+            "description": "• Continue to seek medical attention, but in the process keep from worsening your frostbite.\n\n• Don’t rub or chafe the frostbitten skin, avoid too much movement, and don’t allow the area to be affected by extreme cold again.\n"
+        }
+    ]
+}

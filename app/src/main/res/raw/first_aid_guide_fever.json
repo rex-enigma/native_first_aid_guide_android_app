@@ -1,0 +1,37 @@
+{
+    "id": 0,
+    "image": "treating_fever_step_1",
+    "condition": "Fever",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Let the fever run its course.",
+            "stepImage": "treating_fever_step_1",
+            "description": "• Acting too quickly to treat your fever can, counterintuitively, harm your body by undercutting one of its defensive measures.\n\n• Rather than treating your fever immediately, continue to take your  temperature and monitor your symptoms. The fever will probably subside  in time.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Take ibuprofen or acetaminophen for any discomfort.",
+            "stepImage": "treating_fever_step_2",
+            "description": "• Avoid giving aspirin for a fever, especially if you are dealing with a sick child. Aspirin can have harmful side effects for anyone under the age of 18.\n\n• Aspirin is generally more likely than ibuprofen or acetaminophen to cause gastrointestinal side effects.\n\n• Never give aspirin to a child. It can cause a potentially life-threatening condition called Reyes Syndrome.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Rest as much as possible.",
+            "stepImage": "treating_fever_step_3",
+            "description": "• Wear light clothing to keep your body cool. You should avoid raising  your body temperature any higher than it already is, especially if it is  summer or you live in a warm climate.\n\n• Sleep when you can, under only a sheet  or light blanket. Often the  discomfort of a fever makes it difficult to sleep at night. Any sleep  will help your body; take naps during the day, and sleep when you can at  night.\n\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Hydrate your body by drinking water.",
+            "stepImage": "treating_fever_step_4",
+            "description": "• Although children may prefer to drink soda or juice, these fluids are  not as helpful in staying hydrated. However, if your feverish child will  only drink soda or juice, it’s better than nothing.\n\n• Coffee and tea are also not as effective as water\n."
+        },
+        {
+            "stepNumber": 5,
+            "title": "Bathe yourself in lukewarm water.",
+            "stepImage": "treating_fever_step_5",
+            "description": "• Don't submerge yourself for too long; you want to give your body a chance to release heat through evaporation.\n\n• Do not take an ice bath; the water temperature should be around 85 °F.\n\n• If you are caring for a feverish child, try sponging them or wiping their skin with a damp sponge or a wet washcloth.\n"
+        }
+    ]
+}

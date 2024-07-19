@@ -1,0 +1,31 @@
+{
+    "id": 1,
+    "image": "treating_minor_cut_step_1",
+    "condition": "Minor Cut",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Decide if you should treat the cut yourself.",
+            "stepImage": "treating_minor_cut_step_1",
+            "description": "• The cut is spurting blood.\n\n• The edges of the wound are jagged or far apart from each other.\n\n• The wound keeps opening.\n\n• It is a deep cut or puncture wound, such as more than 1/4 inch deep.\n\n• The cut goes through muscles or tendons.\n\n• The wound was caused by an animal or human bite.\n\n• The cut is accompanied by severe pain.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Wait for minor bleeding to stop.",
+            "stepImage": "treating_minor_cut_step_2",
+            "description": "\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Apply pressure.",
+            "stepImage": "treating_minor_cut_step_3",
+            "description": "• If the bleeding does not stop quickly on its own, you can help it stop faster by applying pressure directly to the wound.\n\n• Keep the pressure constant and avoid removing it every few seconds to  see if the bleeding has stopped. This can slow down the formation of  clots.\n\n• If the bleeding still hasn't stopped after ten minutes, you may need stitches, so see a doctor.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Elevate the affected area.",
+            "stepImage": "treating_minor_cut_step_4",
+            "description": "• This method only works if the cut is on a limb. If it is on your torso, you will have to apply pressure to stop the bleeding.\n"
+        }
+    ]
+}

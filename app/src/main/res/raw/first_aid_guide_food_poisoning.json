@@ -1,0 +1,19 @@
+{
+    "id": 8,
+    "image": "treating_food_poisoning_step_1",
+    "condition": "Food Poisoning",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Figure out what caused the food poisoning.",
+            "stepImage": "treating_food_poisoning_step_1",
+            "description": "• Think back to the food you ate in the last 4 to 36 hours.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Decide if immediate medical attention is necessary.",
+            "stepImage": "treating_food_poisoning_step_2",
+            "description": "• Food poisoning that was caused by bacteria, especially when it strikes an otherwise healthy person, is usually treatable at home.\n"
+        }
+    ]
+}

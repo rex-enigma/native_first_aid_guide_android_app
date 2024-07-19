@@ -1,0 +1,67 @@
+{
+    "id": 5,
+    "image": "treating_dog_bite_step_1",
+    "condition": "Dog Bite",
+    "firstAidSteps": [
+        {
+            "stepNumber": 1,
+            "title": "Examine the bite.",
+            "stepImage": "treating_dog_bite_step_1",
+            "description": "• This differs from a wound where the tissue is deeply punctured, torn, or  joints/bones have been crushed. Always seek medical attention for these  wounds, which are covered more in Method Two.\n"
+        },
+        {
+            "stepNumber": 2,
+            "title": "Wash the bite thoroughly with soap and water.",
+            "stepImage": "treating_dog_bite_step_2",
+            "description": "• Any soap is fine, but an antibacterial soap is best if you have some in your home.\n\n• The soap and water might sting the site of the bite, but it’s still a much better idea to wash the area thoroughly.\n"
+        },
+        {
+            "stepNumber": 3,
+            "title": "Apply pressure if the wound is bleeding.",
+            "stepImage": "treating_dog_bite_step_3",
+            "description": "• If the wound continues bleeding too much to bandage it after fifteen  minutes of pressure, then you should seek medical attention.\n"
+        },
+        {
+            "stepNumber": 4,
+            "title": "Apply an antibiotic ointment.",
+            "stepImage": "treating_dog_bite_step_4",
+            "description": "• Apply the cream to the wound as directed on the packaging.\n"
+        },
+        {
+            "stepNumber": 5,
+            "title": " Bandage the bite.",
+            "stepImage": "treating_dog_bite_step_5",
+            "description": "• As soon as you apply the antibiotic ointment, bandage or dress the wound appropriately.\n\n• Apply with enough pressure to help protect the injury, but do not apply  with so much pressure as to affect circulation or lead to discomfort.\n"
+        },
+        {
+            "stepNumber": 6,
+            "title": "Change the bandage as necessary.",
+            "stepImage": "treating_dog_bite_step_6",
+            "description": "• You should change the bandage on the bite each time you soil it, such as when showering.\n\n• Wash the bite again gently, reapply the antibiotic cream, and apply a fresh bandage.\n"
+        },
+        {
+            "stepNumber": 7,
+            "title": "Update your immunizations.",
+            "stepImage": "treating_dog_bite_step_7",
+            "description": "\n"
+        },
+        {
+            "stepNumber": 8,
+            "title": "Keep an eye on the bite.",
+            "stepImage": "treating_dog_bite_step_8",
+            "description": "• Watch for signs of other infection as the bite heals.\n\n• If you think the bite is becoming infected, then see a doctor immediately.\n"
+        },
+        {
+            "stepNumber": 9,
+            "title": "Determine the rabies vaccine status of the dog, if possible.",
+            "stepImage": "treating_dog_bite_step_9",
+            "description": "• If the dog’s vaccine status is uncertain—such as if the dog was a  stray—the dog should be observed for fifteen days (if possible) to see  if it develops signs of rabies. You should also seek professional  medical assistance if you can’t verify the vaccination status of the  dog.\n"
+        },
+        {
+            "stepNumber": 10,
+            "title": "Seek medical attention for other health-related complications.",
+            "stepImage": "treating_dog_bite_step_10",
+            "description": "• Even for minor bites, some health-related complications mean you should still seek medical attention.\n"
+        }
+    ]
+}
